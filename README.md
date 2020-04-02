@@ -20,6 +20,7 @@ pip install tensorflow==2.1
 1. Download dataset from kaggle [10-monkey-species](https://www.kaggle.com/slothkong/10-monkey-species)
 2. Extract the file to "data/10-monkey-species" folder
 3. Delete duplicate folders, tree it like this:
+```sh
     ├─callbacks
     └─data
         └─10-monkey-species
@@ -31,7 +32,7 @@ pip install tensorflow==2.1
                 ├─n0
                 ├─n1
                 └─n2
-
+```
 
 ## Usage example
 
