@@ -15,7 +15,7 @@ pip install matplotlib sklearn numpy pandas jupyter
 pip install tensorflow==2.1
 ```
 
-# Prepare data 10-monkey-species
+## Prepare data 10-monkey-species
 ![](./monkeys.jpg)
 1. Download dataset from kaggle [10-monkey-species](https://www.kaggle.com/slothkong/10-monkey-species)
 2. Extract the file to "data/10-monkey-species" folder
